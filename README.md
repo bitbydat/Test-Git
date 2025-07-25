@@ -2,7 +2,7 @@
 <br />
 <div align="center">
   <a href="https://github.com/bitbydat/Test-Git">
-    <img src="image/diagram1.jpg" alt="Logo" width="800" height="420">
+    <img src="image/diagram1.png" alt="Logo" width="800" height="420">
   </a>
 
 <h3 align="center">Smart Home IoT</h3>
