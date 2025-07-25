@@ -1,8 +1,8 @@
 <!-- PROJECT LOGO -->
 <br />
 <div align="center">
-  <a href="https://github.com/hungdaqq/Smarthome-IoT">
-    <img src="images/smarthome.jpg" alt="Logo" width="800" height="420">
+  <a href="https://github.com/bitbydat/Test-Git">
+    <img src="images/diagram1.jpg" alt="Logo" width="800" height="420">
   </a>
 
 <h3 align="center">Smart Home IoT</h3>
