@@ -2,7 +2,7 @@
 <br />
 <div align="center">
   <a href="https://github.com/bitbydat/Test-Git">
-    <img src="image/smart_stick.png" alt="Logo" width="600" height="420">
+    <img src="image/smart_stick.png" alt="Logo" width="900" height="500">
   </a>
 
 <h3 align="center">Navigation and Obstacle Detection Device for the Visually Impaired</h3>
@@ -13,8 +13,6 @@
     <a href="https://docs.google.com/document/d/1b8eUY19hVWinYOA9YIkjcR_toliwRPs9/edit?usp=sharing&ouid=113352961761938394358&rtpof=true&sd=true"><strong>Explore the docs »</strong></a>
     <br />
     <br />
-    <a href="https://github.com/hungdaqq/Smarthome-IoT">View Demo</a>
-    ·
     <a href="https://github.com/hungdaqq/Smarthome-IoT/issues">Report Bug</a>
     ·
     <a href="https://github.com/hungdaqq/Smarthome-IoT/issues">Request Feature</a>
@@ -38,12 +36,9 @@
         <li><a href="#installation">Installation</a></li>
       </ul>
     </li>
-    <li><a href="#usage">Usage</a></li>
-    <li><a href="#roadmap">Roadmap</a></li>
-    <li><a href="#contributing">Contributing</a></li>
-    <li><a href="#license">License</a></li>
+    <li><a href="#roadmap">Achievements and Future Work</a></li>
+     <li><a href="#contributing">Contributing</a></li>
     <li><a href="#contact">Contact</a></li>
-    <li><a href="#acknowledgments">Acknowledgments</a></li>
   </ol>
 </details>
 
@@ -61,10 +56,6 @@ This device is designed to detect distant obstacles and provide a warning mechan
 - Equipped with a ***battery*** and ***charging circuit***.
 - Notify working status, charging status, and battery level.
 
-Project structure:
-- `ESP8266` is a brief explanation of how to use Platform.io to create a microcontroller programming environment.
-- `Thingsboard` contains template files for the Thingsboard Server configuration.
-- `Features` is where we demonstrate the features and capabilities of this Smart Home, as well as how to implement them using the provided code, hardware schema, and controller interface.
 <!-- GETTING STARTED -->
 ## Getting Started
 <br />
@@ -89,21 +80,15 @@ Before getting started with the project, you will need the following:
 ### Installation
 <div align="left">
   
-1. Clone the repo:
    ```sh
    git clone https://github.com/hungdaqq/Smarthome-IoT.git
    ```
-2. Create a Thingsboard account at https://demo.thingsboard.io/ and login to use Thingsboard Live Demo server. Then go to [Thingsboard](https://github.com/hungdaqq/Smarthome-IoT/tree/main/Thingsboard) for a quick overview of this open-source IoT platform.
-3. Follow the instructions to install [Thingsboard Edge CE](https://thingsboard.io/docs/user-guide/install/edge/installation-options/) v3.4.3 and provision your Edge to the Server.
-5. Get and install the ThingsBoardLive on [App Store](https://apps.apple.com/us/app/thingsboard-live/id1594355695) or [Google Play](https://play.google.com/store/apps/details?id=org.thingsboard.demo.app&hl=vi&gl=US).
-7. Please refer to [ESP8266](https://github.com/hungdaqq/Smarthome-IoT/tree/main/ESP8266) for setting up micro controllers programming evironment and [Features](https://github.com/hungdaqq/Smarthome-IoT/tree/main/Features) for ThingsBoard configuration as well as connecting the electronics components in accordance with the hardware schema.
-9. (Optional) Follow the instructions to install [Thingsboard IoT Gateway](https://thingsboard.io/docs/iot-gateway/installation/) v2.9 on your Raspberry Pi or PC if you want integrate devices that are connected to legacy and third-party systems with ThingsBoard IoT platform. For example: external MQTT brokers, OPC-UA servers, Sigfox Backend, Modbus slaves or CAN nodes.
-
 
 </div>
 
 <!-- ROADMAP -->
 ## Achievements and Future Work
+
 
 <div align="left">
 
