@@ -69,10 +69,9 @@ Project structure:
 ## Getting Started
 <br />
 <div align="center">
-  <a href="https://github.com/hungdaqq/Smarthome-IoT">
-    <img src="images/new_diagram.png" alt="Logo" width="800" height="630">
+  <a href="https://github.com/bitbydat/Test-Git">
+    <img src="image/diagram1.png" alt="Logo" width="600" height="420">
   </a>
-</div>
 <p align="justify">
 The project's deployment diagram is shown here. For WiFi communication between the system, we selected the low-cost MCU ESP8266, and chose the Thingsboard IoT Platform to monitor and control various types of endpoints via MQTT protocol. For edge computing, we used Thingsboard Edge, and for cloud computing, the Live Demo Server. Since it is an opensource platform, there is absolutely no expense involved. </p>
 
